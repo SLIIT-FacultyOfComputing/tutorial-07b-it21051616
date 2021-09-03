@@ -25,3 +25,4 @@ void Rectangle::display() {
 int Rectangle::calcArea() {
   return length * width;
 }
+

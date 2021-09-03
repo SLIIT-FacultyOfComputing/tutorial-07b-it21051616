@@ -1,4 +1,4 @@
-// Rectangle.h
+/// Rectangle.h
 
 class Rectangle {
    private:
